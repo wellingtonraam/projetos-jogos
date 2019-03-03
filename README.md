@@ -7,4 +7,4 @@ Aqui estão os protótipos de jogos, onde exploro a movimentação, objetos e co
 
 
 #### Interativo
-Prototipo de movimentação via teclado
+Prototipo de movimentação via teclado e mous.
